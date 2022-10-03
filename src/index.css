@@ -6,7 +6,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  background: black;
+  background:#6A1B4D;
 }
 
 code {
@@ -55,14 +55,14 @@ ul {
 
 p {
   display: inline-block;
-  color: whitesmoke;
+  color: #5DA3FA;
   margin-right: 5px;
   font-size: 1.3rem;
   /* font-family: monospace; */
 }
 
 h1 {
-  color: white;
+  color: #CAD5E2;
   font-weight: 900;
   font-size: 3rem;
   font-family: sans-serif;
@@ -72,7 +72,7 @@ h1 {
 }
 
 li {
-  background-color: blue;
+  background-color: #120E43;
   margin-bottom: 2px;
   display: flex;
   justify-content: space-around;
@@ -82,11 +82,11 @@ li {
 .window-close {
   margin-left: 30px;
   color: red;
-  background-color: white;
+  background-color:#CAD5E2;
 }
 
 li:hover {
-  background-color: grey;
+  background-color: #242B2E;
 }
 
 form {
@@ -103,8 +103,8 @@ button {
   margin-top: 10px;
   display: inline-block;
   height: 40px;
-  color: white;
-  background-color: grey;
+  color: #CAD5E2;
+  background-color: #1FAA59;
 }
 
 .list-btn {
