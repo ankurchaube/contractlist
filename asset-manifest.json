@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contractlist/static/css/main.a741f0af.css",
+    "main.js": "/contractlist/static/js/main.cc75d7dc.js",
+    "index.html": "/contractlist/index.html",
+    "main.a741f0af.css.map": "/contractlist/static/css/main.a741f0af.css.map",
+    "main.cc75d7dc.js.map": "/contractlist/static/js/main.cc75d7dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a741f0af.css",
+    "static/js/main.cc75d7dc.js"
+  ]
+}
