@@ -103,11 +103,11 @@ class App extends React.Component {
               src="https://cdn-icons-png.flaticon.com/512/1250/1250592.png"
               alt="contact-icon"
             ></img>
-            <h1>Recovero Contract List</h1>
+            <h1>Contract List</h1>
           </header>
           <ul>
             {users.length === 0 ? (
-              <h1>Loading....</h1>
+              <h1>Loading</h1>
             ) : (
               users.map((user) => {
                 return (
